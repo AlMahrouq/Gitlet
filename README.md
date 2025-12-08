@@ -25,5 +25,10 @@
 |--- branches                <=== directory has the branches name
 |    |--- master             <=== file contain the lastest commit in the branch called master as an example
 ```
+## How to run
+1. Clone the repo: `git clone https://github.com/AlMahrouq/Gitlet.git`
+2. `cd Gitlet/gitlet`
+3. `javac gitlet/*.java`
+4. `java gitlet.Main init`
 ## Source:
 - CS 61B Data Structures course by UC Berkeley.
