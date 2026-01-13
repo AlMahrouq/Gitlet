@@ -1,7 +1,7 @@
 # Gitlet
 - Gitlet is a version-control system that mimics some of the basic features of the popular system Git.
 ## Demo
-[Demo Video](https://drive.google.com/file/d/1BLc_N05RqmBSZy0F-aXEPDNBusn4jT4Q/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1sG5D_sRoGbZl6nmKZTcDsh6pToJVPqk5/view?usp=drive_link)
 ## The main functionality that Gitlet supports is:
 1. Saving the contents of the entire directory of files. In Gitlet this is called committing.
 2. Restoring a version of one or more files. In Gitlet this is called checkout.
